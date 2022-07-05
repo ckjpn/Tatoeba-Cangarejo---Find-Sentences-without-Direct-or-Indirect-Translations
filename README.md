@@ -4,7 +4,7 @@ Started with Cangarjo's Python 3 Script
 
 My aim is to create the same type of output, but to limit the results to sentences owned by native speakers.
 This should help lower the number of errors found in the data.
-Most language learners would probably prefer to learn from sentences created by native speakers.
+Also, most language learners would probably prefer to learn from sentences created by native speakers.
 After members have finished translating all the sentences owned by native speakers, then they could run Cangarejo's original script to find all the other sentences.
 
 Files needed
