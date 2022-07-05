@@ -1,5 +1,8 @@
 # Tatoeba-Cangarejo---Find-Sentences-without-Direct-or-Indirect-Translations
 
+## Note that this is a planned project and nothing has been added to Cangarjo's original script yet.
+
+
 ## Started with Cangarjo's Python 3 Script
 
 My aim is to create the same type of output, but to limit the results to sentences owned by native speakers.
